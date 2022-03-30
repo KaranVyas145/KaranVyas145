@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Vyas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- Hello there! I am Karan Vyas (@KaranVyas145), a 3rd year B.E student in Information Technology at Sardar Vallabhbhai Patel Institute of Technology, Vasad. I am a Frontend Web Developer (React | HTML | CSS | JavaScript). I am currently looking to join an orgnization as an intern to broaden my perspective and enchance my skills and experience. [Burger Builder](https://github.com/KaranVyas145/burger-builder)
+- Hello there! I am Karan Vyas (@KaranVyas145), a 3rd year B.E student in Information Technology at Sardar Vallabhbhai Patel Institute of Technology, Vasad. I am a Frontend Web Developer (React | HTML | CSS | JavaScript). I am currently looking to join an orgnization as an intern to broaden my perspective and enchance my skills and experience. 
 
 - 📫 How to reach me **karanvyas2907@gmail.com**
 
