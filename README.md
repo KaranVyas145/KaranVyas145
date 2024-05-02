@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Vyas</h1>
-<h3 align="center">a passionate Junior Software Developer with a focus on Backend development using .NET Core and C#.</h3>
+
+
+- Hello there! I am Karan Vyas (@KaranVyas145), a Junior Software Developer from Vadodara, Gujarat India. I am a Backend Developer (.Net Core C#). Currently honing my skills in crafting efficient and scalable solutions. 🚀 Let's collaborate and build something awesome together! Open to learning and exploring new technologies. 
 
 - 🌱 I’m currently learning **Angular**
 
